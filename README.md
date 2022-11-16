@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <img src="https://github.com/ivanmirandastavenuiter/victoria-tap-counter/assets/beer.jpg" alt="UFO" width="400">
+  <img src="https://github.com/ivanmirandastavenuiter/victoria-tap-counter/blob/devel/assets/beer.jpg" alt="UFO" width="400">
   <br>
   <br>
   Victoria Tap Counter
