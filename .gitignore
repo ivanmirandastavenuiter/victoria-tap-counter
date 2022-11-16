@@ -1,3 +1,9 @@
 **/victoria-tap/.vs/
 **/victoria-tap/bin
 **/victoria-tap/obj
+
+**/victoria-tap-integration-tests/bin
+**/victoria-tap-integration-tests/obj
+
+**/victoria-tap-unit-tests/bin
+**/victoria-tap-unit-tests/obj
